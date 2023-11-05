@@ -14,7 +14,6 @@ const config = {
         csrf:{
             checkOrigin: false,
         },
-		outDir:"build",
 		adapter: adapter()
 	}
 };
